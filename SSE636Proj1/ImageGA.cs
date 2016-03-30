@@ -6,6 +6,7 @@ namespace SSE636Proj1
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             Program.LockUnlockBitsExample();
